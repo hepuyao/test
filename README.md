@@ -3,10 +3,10 @@ ukui-panel represents the taskbar of UKUI
 
 ## Table of Contents
 
-   * [ukui-panel](#About Project)
-      * [About Project](#About Project)
-      * [Getting Started](#Getting Started)
-      * [Document Introduction](#Document Introduction)
+   * [ukui-panel](#About-Project)
+      * [About Project](#About-Project)
+      * [Getting Started](#Getting-Started)
+      * [Document Introduction](#Document-Introduction)
 
 
 ## About Project
