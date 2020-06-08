@@ -12,9 +12,9 @@ ukui-panel represents the taskbar of UKUI
 ## About Project
 
 ukui-panel contains the following plugins:
-   * [ukui-panel]
-      * [taskview]
-      * (#quicklaunch)
+   * startmenu
+   * quicklaunch
+   * taskbar
       * (taskbar)
 
 ## Getting Started
