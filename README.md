@@ -1,7 +1,7 @@
 # ukui-panel
 ukui-panel represents the taskbar of UKUI
 
-##Table of Contents
+## Table of Contents
 
    * [ukui-panel](#About Project)
       * [About Project](#About Project)
@@ -9,7 +9,7 @@ ukui-panel represents the taskbar of UKUI
       * [Document Introduction](#Document Introduction)
 
 
-##About Project
+## About Project
 
 ukui-panel contains the following plugins:
 *startmenu
@@ -20,7 +20,7 @@ ukui-panel contains the following plugins:
 *nightmode
 *showdesktop
 
-##Getting Started
+## Getting Started
 
 ```bash
 # Install ukui-panel
@@ -34,7 +34,7 @@ sudo make install
 ./panel/ukui-panel
 ```
 
-##Document Introduction
+## Document Introduction
 
 ukui-panel has plugins configuration file in ~/.config/ukui/panel.conf 
 it decide the count and order of the ukui-panel's plugins
