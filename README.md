@@ -36,5 +36,5 @@ sudo make install
 ## Document Introduction
 
 ukui-panel has plugins configuration file in ~/.config/ukui/panel.conf 
-it decide the count and order of the ukui-panel's plugins
+it decide the count and order of the ukui-panel's plugins  
 
